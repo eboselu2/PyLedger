@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey)
+
 # 📊 Personal Ledger Manager (PyLedger)
 #### Video Demo:  <https://youtu.be/IwYEI97kR2k>
 #### **Description**: 
@@ -69,7 +72,12 @@ A command-line personal finance ledger application built with Python that helps 
 ```
 If not installed, download from [python.org](https://www.python.org)
 
-2. Get the project files:
+2. If you are installing from GitHub:
+```bash
+git clone https://github.com/eboselu2/pyledger.git
+```
+
+3. Get the project files:
     - Extract the ZIP file (if received as a compressed file)
     - Or simply copy `project.py` to a folder of your choice
 
